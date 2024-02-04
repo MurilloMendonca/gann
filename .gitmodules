@@ -1,6 +1,6 @@
 [submodule "generic-ga"]
-	path = generic-ga
+	path = dependencies/generic-ga
 	url = git@github.com:MurilloMendonca/generic-ga.git
 [submodule "Neural-Network"]
-	path = Neural-Network
+	path = dependencies/Neural-Network
 	url = git@github.com:MurilloMendonca/Neural-Network.git
